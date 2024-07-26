@@ -1,0 +1,11 @@
+* {
+	box-sizing: border-box;
+}
+
+.nav-bar {
+	display: flex;
+}
+
+.nav-bar ul {
+	flex: 1;
+}
